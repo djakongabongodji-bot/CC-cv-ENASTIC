@@ -1,0 +1,61 @@
+.trashed-1773817599-Screenshot_20251228-085925.jpg‎🟦 1. Fichier CSS (style.css)
+‎CSS
+‎body {
+‎    font-family: Arial, sans-serif;
+‎    margin: 0;
+‎    background-color: #f4f4f4;
+‎}
+‎
+‎/* HEADER */
+‎header {
+‎    background: #003366;
+‎    color: white;
+‎    padding: 15px;
+‎    text-align: center;
+‎}
+‎
+‎/* MENU */
+‎nav {
+‎    background: #0055aa;
+‎    padding: 10px;
+‎    text-align: center;
+‎}
+‎
+‎nav a {
+‎    color: white;
+‎    margin: 10px;
+‎    text-decoration: none;
+‎    font-weight: bold;
+‎}
+‎
+‎nav a:hover {
+‎    color: yellow;
+‎}
+‎
+‎/* BANNIERE */
+‎#banniere {
+‎    height: 200px;
+‎    background: url('logo ENASTIC/banner.jpg') no-repeat center;
+‎    background-size: cover;
+‎}
+‎
+‎/* CONTENU */
+‎section {
+‎    padding: 20px;
+‎}
+‎
+‎article {
+‎    background: white;
+‎    padding: 15px;
+‎    border-radius: 5px;
+‎}
+‎
+‎/* FOOTER */
+‎footer {
+‎    background: #003366;
+‎    color: white;
+‎    text-align: center;
+‎    padding: 10px;
+‎    margin-top: 20px;
+‎}
+
